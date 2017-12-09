@@ -1,7 +1,7 @@
 ### :books: Guia de Estudos para frontend
 
 - HTML
-  - Semântica
+  - Semântica
   - Acessibilidade
 - CSS
   - Flexbox
