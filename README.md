@@ -1,4 +1,4 @@
-### :books: Guia de Estudos para frontend
+## :books: Guia de Estudos para frontend
 
 - HTML
   - Semântica
@@ -19,9 +19,9 @@
   - TDD
   - Clean Code
 
-### :page_with_curl: HTML
+## :page_with_curl: HTML
 
-### :art: CSS
+## :art: CSS
 
 #### Flexbox
 - O que é?
