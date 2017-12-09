@@ -10,6 +10,11 @@
   - Promises
 - React
 - Angular
+- Ferramentas
+  - Git
+  - Comandos básicos do terminal
+  - Webpack
+  - Gulp
 - Boas Práticas
   - TDD
   - Clean Code
