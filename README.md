@@ -32,7 +32,7 @@
   - [Documentação](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   - [Flexbox organizando seu layout](https://tableless.com.br/flexbox-organizando-seu-layout/)
-  - [Flexbox Froggy](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+  - [Flexbox Froggy](http://flexboxfroggy.com/)
   
 ## :rocket: Javascript
 
