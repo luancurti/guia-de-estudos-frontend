@@ -1,4 +1,4 @@
-## :books: Guia de Estudos para frontend
+### :books: Guia de Estudos para frontend
 
 - HTML
 - CSS
