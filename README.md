@@ -9,7 +9,7 @@
   - ES6
   - Promises
 - React
-- Angular
+- Angular (2+)
 - Ferramentas
   - Git
   - Comandos básicos do terminal
