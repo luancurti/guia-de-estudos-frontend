@@ -32,3 +32,13 @@
 
   - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   - [Flexbox organizando seu layout](https://tableless.com.br/flexbox-organizando-seu-layout/)
+  
+## :rocket: Javascript
+
+## ⚛ React
+
+## :a: Angular (2+)
+
+## :art: Ferramentas
+
+## :+1: Boas Práticas
