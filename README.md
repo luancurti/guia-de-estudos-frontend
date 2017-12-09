@@ -12,7 +12,7 @@
 - Angular
 - Ferramentas
   - Git
-  - Comandos básicos do terminal
+  - Comandos básicos do terminal
   - Webpack
   - Gulp
 - Boas Práticas
