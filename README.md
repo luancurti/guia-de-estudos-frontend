@@ -29,7 +29,7 @@
   O CSS Flexible Box Layout Model ou simplesmente Flexbox faz parte da especificação do CSS3 que promete organizar elementos     na página previsivelmente quando o layout precisa ser visualizado em diversos tamanhos de tela e em diversos dispositivos.
 
 - Onde estudar?
-  - [Documentação](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+  - [Documentação](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   - [Flexbox organizando seu layout](https://tableless.com.br/flexbox-organizando-seu-layout/)
   - [Flexbox Froggy](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
