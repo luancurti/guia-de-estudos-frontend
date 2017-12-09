@@ -39,6 +39,6 @@
 
 ## :a: Angular (2+)
 
-## :art: Ferramentas
+## :wrench: Ferramentas
 
 ## :+1: Boas Práticas
