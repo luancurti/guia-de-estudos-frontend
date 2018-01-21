@@ -33,12 +33,19 @@
   - [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   - [Flexbox organizando seu layout](https://tableless.com.br/flexbox-organizando-seu-layout/)
   - [Flexbox Froggy](http://flexboxfroggy.com/)
-  
+
 ## :rocket: Javascript
 
 ## ⚛ React
 
 ## :a: Angular (2+)
+- O que é?
+
+  Angular 2 é um framework que permite desenvolver aplicações web e mobile, mantido pela Google. Apesar de ser a segunda versão do framework, Angular 2 não é a continuação do Angular 1 com melhores e novas funcionalidades, o framework foi completamente reescrito.
+
+- Onde estudar?
+  - [Documentação](https://angular.io/)
+  - [Curso Gratuito de Angular 2+ da Loiane Groner](https://loiane.training/course/angular-2/)
 
 ## :wrench: Ferramentas
 
